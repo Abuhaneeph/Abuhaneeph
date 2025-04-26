@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Blockchain Developer</h3>
 
 
-- 👨‍💻 All of my projects are available at **[portfolio](https://abuhaneephconcepts.com.ng)**
+- 👨‍💻 All of my projects are available at **[portfolio](https//:neeph-codes.netlify.app)**
 
 - 💬 Ask me about **React-js, Solidity, Next-js**
 
