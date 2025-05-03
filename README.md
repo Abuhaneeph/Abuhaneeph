@@ -25,7 +25,7 @@ I'm a passionate developer focused on building scalable blockchain applications 
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abuhaneeph&theme=radical" alt="Abu-Haneeph's GitHub Streak" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abuhaneeph&theme=radical" alt="Abu-Haneeph's GitHub Streak" /></a>
 </div>
 
 ### 🔗 Recent Projects
