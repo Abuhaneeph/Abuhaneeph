@@ -25,7 +25,7 @@ I'm a passionate developer focused on building scalable blockchain applications 
 </div>
 
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=abuhaneeph)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abuhaneeph" alt="GitHub Streak" /></a>
 </div>
 
 ### 🔗 Recent Projects
