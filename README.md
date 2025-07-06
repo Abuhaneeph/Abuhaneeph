@@ -18,6 +18,9 @@ I'm a passionate developer focused on building scalable blockchain applications 
 **DevOps & Tools:**
 - Git | Heroku | CI/CD
 
+**🏆 Achievements**
+- 🥈 2nd Place Winner – ApeChain Ghana Hackathon 2025
+
 ### 📈 GitHub Stats
 
 <div align="center">
