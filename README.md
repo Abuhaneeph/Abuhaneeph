@@ -1,6 +1,6 @@
 # Muhammad Lawan (Abu-Haneeph)
 
-## Full Stack Blockchain Developer
+## Software Developer
 
 I'm a passionate developer focused on building scalable blockchain applications and web solutions with expertise in React, Next.js, and Solidity.
 
